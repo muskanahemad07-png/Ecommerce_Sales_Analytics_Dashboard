@@ -14,3 +14,10 @@ Tech Stack & Tools
 • Data Processing / Modeling: Power Query, DAX / Excel 
 • Visualization Tool: Power BI / Excel / 
 • Data Sources: Structured CSV / Relational Order & Order-Details datasets
+
+<p align="center">
+  <img src="https://github.com" alt="Ecommerce Sales Dashboard" width="100%">
+</p>
+"Add Dashboard Screenshot"
+
+
